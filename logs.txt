@@ -1,0 +1,30 @@
+commit f821459fb578f35020ebe9bf593b525c442f7dc4
+Merge: d37a036 10a6669
+Author: SHINNY\shinn <shinnyno27@gmail.com>
+Date:   Tue Feb 25 13:33:15 2025 -0500
+
+    added 4
+
+commit 10a6669f683e242ff5809def3c40c54f59793526
+Author: SHINNY\shinn <shinnyno27@gmail.com>
+Date:   Tue Feb 25 13:24:49 2025 -0500
+
+    added 4 and 12
+
+commit d37a0368a63c0ff1fda89604b02f5607377782bc
+Author: SHINNY\shinn <shinnyno27@gmail.com>
+Date:   Tue Feb 25 13:20:47 2025 -0500
+
+    changed seven to 7 and added 11
+
+commit f0fea701eee1cfc9e404b385422664a344bc77a5
+Author: SHINNY\shinn <shinnyno27@gmail.com>
+Date:   Tue Feb 25 13:18:05 2025 -0500
+
+    changed five to 5
+
+commit 20fa67e124ca1de9da3a2069214cd5bb1d60175c
+Author: SHINNY\shinn <shinnyno27@gmail.com>
+Date:   Tue Feb 25 13:14:40 2025 -0500
+
+    txt file added
